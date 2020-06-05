@@ -1,0 +1,7 @@
+{
+  "emmet.extensionsPath": "",
+  "emmet.includeLanguages": {
+    "php": "php"
+  },
+  "php.suggest.basic": true
+}
